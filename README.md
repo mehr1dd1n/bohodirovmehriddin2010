@@ -38,6 +38,10 @@
 ### 🌍 Most Used Languages
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/mehriddinbohodirov" width="170" style="border-radius:50%; border: 5px solid #89b4fa; box-shadow: 0 0 15px rgba(137, 180, 250, 0.6);" />
+  <br>
+  <b>Mehriddin Bohodirov</b>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehriddinbohodirov&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -46,7 +50,7 @@
 ### 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mehriddinbohodirov/mehriddinbohodirov/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mehriddinbohodirov/mehriddinbohodirov/output/github-contribution-grid-snake.gif" alt="Snake animation" width="100%" />
 </p>
 
 ---
@@ -55,7 +59,7 @@
 
 <p align="center">
   <a href="https://t.me/mehriddin_dev"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="mailto:mehriddin@example.com"><img src="https://img.shields.io/badge/Email-Mehriddin-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:mehriddinbohodirov0@gmail.com"><img src="https://img.shields.io/badge/Email-Mehriddin-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/mehriddinbohodirov"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
 </p>
 
