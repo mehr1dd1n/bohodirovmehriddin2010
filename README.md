@@ -1,5 +1,5 @@
 <!-- Banner yoki ism yozuvi -->
-<h1 align="center">Hi 👋, I'm <your_name></h1>
+<h1 align="center">Hi 👋, I'm <Mehriddin Bahodirov></h1>
 <h3 align="center">Backend Developer | Python & Django | Future Senior Developer 🚀</h3>
 
 <p align="center">
@@ -37,38 +37,46 @@
 ---
 
 ## 📬 Contact Me
-
 <p align="center">
-    <a href="https://t.me/<your_telegram>" target="_blank">
+
+    <!-- Telegram -->
+    <a href="https://t.me/your_telegram" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
 
-    <a href="https://www.instagram.com/<your_instagram>" target="_blank">
+    <!-- Instagram -->
+    <a href="https://www.instagram.com/mehriddin.coder26" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 
-    <a href="mailto:<your_email>" target="_blank">
+    <!-- Email -->
+    <a href="mailto:your_email@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 
-    <a href="https://www.linkedin.com/in/<your_linkedin>" target="_blank">
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/your_linkedin" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 
-    <a href="https://<your_portfolio>" target="_blank">
+    <!-- Portfolio -->
+    <a href="https://your-portfolio-link" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
+
 </p>
 
 ---
 
+
 ## 👤 About Me
 
-- 👶 Tug‘ilgan joyim: **<your_city>**
+- 👶 Tug‘ilgan joyim: **<Men Farg'ona viloyati Beshariq tumani
+-  Yakkatut tumanida tugulgan man >**
 - 👨‍💻 Backend yo‘nalishda ishlayman (Python/Django)
 - 📚 Har kuni yangi texnologiyalarni o‘rganaman
 - ☕ Kode yozayotganda qahva — eng yaxshi yordamchim
-- 🚀 Maqsadim: Senior Backend Developer bo‘lish
+- 🚀 Maqsadim: Senior Backend Developer bo‘lish ya'ni DEVos
 
 ---
 
