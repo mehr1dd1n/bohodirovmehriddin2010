@@ -39,30 +39,30 @@
 ## 📬 Contact Me
 <p align="center">
 
-    <!-- Telegram -->
-    <a href="https://t.me/your_telegram" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
+  <!-- Telegram -->
+  <a href="https://t.me/your_telegram" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 
-    <!-- Instagram -->
-    <a href="https://www.instagram.com/mehriddin.coder26" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/mehriddin.coder26" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-    <!-- Email -->
-    <a href="mailto:your_email@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
+  <!-- Email -->
+  <a href="mailto:your_email@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/your_linkedin" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your_linkedin" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-    <!-- Portfolio -->
-    <a href="https://your-portfolio-link" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-    </a>
+  <!-- Portfolio -->
+  <a href="https://your-portfolio-link" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 
 </p>
 
