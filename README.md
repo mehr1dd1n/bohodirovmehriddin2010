@@ -1,5 +1,5 @@
 <!-- Banner yoki ism yozuvi -->
-<h1 align="center">Hi 👋, I'm <Mehriddin Bahodirov></h1>
+<h1 align="center">Hi 👋, I'm Mehriddin Bahodirov</h1>
 <h3 align="center">Backend Developer | Python & Django | Future Senior Developer 🚀</h3>
 
 <p align="center">
